@@ -1,1 +1,10 @@
-
+body {
+  background-color: #87CEFA;
+}
+.one {
+  color: blue;
+}
+.two {
+  color: blue;
+  text-align: center;
+}
